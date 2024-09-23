@@ -6,7 +6,7 @@ import testArrayForSorting
 fun main(){
     println(bubbleSort(testArrayForSorting).contentToString())
 }
-// test array
+
 fun bubbleSort(arr:Array<Int>):Array<Int>{
 
     for(value in arr.indices.reversed()){
