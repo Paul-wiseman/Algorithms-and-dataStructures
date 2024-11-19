@@ -1,0 +1,6 @@
+/shelf/
+/workspace.xml
+target/classes/
+target/test-classes/
+build/
+out/production/classes
